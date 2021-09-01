@@ -14,5 +14,4 @@
 - Take care of UX and UI: Build [wireframes](https://en.wikipedia.org/wiki/Website_wireframe)
 - You may deploy your product on the cloud using [Github Pages](https://pages.github.com/). Original [2048](http://gabrielecirulli.github.io/2048/) game was actually hosted on Github Pages.
 
-## Guide
-[Click here to watch milestone guide](https://drive.google.com/open?id=1WxYQGMQIn9vhPenRMF0t0wQUl1jdeAgC)
+
