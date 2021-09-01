@@ -3,6 +3,9 @@
 ## Details
 - It is a simple web application of the famous "Black-Jack' game.
 
+## Technologies
+- In this mainly HTML, CSS, JAVASCRIPT and BOOTSTRAP is used.
+
 ## Hints
 - Explore various card games and understand the logic behind each
 - Finalize a game which fascinates you the most
