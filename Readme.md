@@ -6,4 +6,4 @@
 ## Technologies
 - In this mainly HTML, CSS, JAVASCRIPT and BOOTSTRAP is used.
 
-
+## You can use this for practice.
